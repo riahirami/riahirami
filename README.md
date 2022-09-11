@@ -13,8 +13,6 @@
    <a href="https://www.linkedin.com/in/rami-riahi-988197118/"><img height="130px" width="250px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-512.png"></a>&nbsp;&nbsp;
  </p>
  
-<hr>
-
  
 <br />
 <p align="center">
