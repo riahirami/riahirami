@@ -3,7 +3,7 @@
   
   <div align="center">
 <h3> Full Stack Developer 💻 |  Tunisia <img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Tunisia_flat.png" width="30" height="20"> </div>
-      <i>⚡️ I don't be afraid to try be afraid not to try ⚡️</i>
+      <i>⚡️ ⚡️ I don't be afraid to fail, I be afraid not to try ⚡️ ⚡️</i>
 
 </div>
 
@@ -11,6 +11,7 @@
 
    <p align='center'>
    <a href="https://www.linkedin.com/in/rami-riahi-988197118/"><img height="130px" width="250px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-512.png"></a>&nbsp;&nbsp;
+      <a href="https://ramos-portfolio.herokuapp.com/index"><img height="250px" width="230px" src="https://i.postimg.cc/y6P8QWnY/Capture.png"></a>
  </p>
  
  
