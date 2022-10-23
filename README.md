@@ -10,7 +10,7 @@
  
 
    <p align='center'>
-   <a href="https://www.linkedin.com/in/rami-riahi-988197118/"><img height="130px" width="250px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-512.png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/rami-riahi-988197118/" target="_blank"><img height="130px" width="250px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-512.png"></a>&nbsp;&nbsp;
       <br>
       <a href="https://ramos-portfolio.herokuapp.com/index" target="_blank">
          <img height="250px" width="230px" src="http://jennyyoung.weebly.com/uploads/1/6/8/1/16818798/graphic-myportfolio-01-1024x550_orig.png"></a>
