@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://www.linkedin.com/in/rami-riahi-988197118/">Rami</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   
   <div align="center">
-<h3> Full Stack Developer 💻 |  Tunisia <img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Tunisia_flat.png" width="30" height="20"> </div>
+<h3> Web/mobile Developer 💻 |  Tunisia <img src="https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Tunisia_flat.png" width="30" height="20"> </div>
       <i>⚡️ ⚡️ I don't be afraid to fail, I be afraid not to try ⚡️ ⚡️</i>
 
 </div>
@@ -12,16 +12,14 @@
  
  
 <br />
-<p align="center">
+<div align="center">
   <h3> I'm a Software Engineer with a focus on web and mobile development 💻</h3>
-</p>
- 
- 
- - 💬 Connect? I didn't use social media, Just 👉🏼   <a href="https://www.linkedin.com/in/rami-riahi-988197118/"><img height="" width="80px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/linkedin_incon-linkedin_logo-linkedin-256.png">
- </a>&nbsp;&nbsp;
-
  
 
+ <p>💬 Connect? I didn't use social media, Just 👉🏼   <a href="https://www.linkedin.com/in/rami-riahi-988197118/"><img height="30px" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/linkedin_incon-linkedin_logo-linkedin-256.png">
+ </a></p>
+
+ </div>
 <!--  -->
 
 <br />
