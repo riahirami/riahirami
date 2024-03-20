@@ -9,17 +9,11 @@
 
  
 
-   <p align='center'>
-   <a href="https://www.linkedin.com/in/rami-riahi-988197118/" target="_blank"><img height="130px" width="250px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-512.png"></a>&nbsp;&nbsp;
-      <br>
-      <a href="https://riahirami.up.railway.app" target="_blank">
-         <img height="250px" width="230px" src="http://jennyyoung.weebly.com/uploads/1/6/8/1/16818798/graphic-myportfolio-01-1024x550_orig.png"></a>
- </p>
  
  
 <br />
 <p align="center">
-  <h3> I'm a Software Engineer Student from Tunisia, on road to be a Full-Stack developer 💻</h3>
+  <h3> I'm a Software Engineer with a focus on web and mobile development 💻</h3>
 </p>
  
  
